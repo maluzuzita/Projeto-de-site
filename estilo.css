@@ -1,0 +1,29 @@
+title {
+.cal-sans-regular {
+    font-style: "Cal Sans", sans-serif, normal;
+    width: 200;
+    height: normal
+  }
+} 
+
+h1 {
+    .cal-sans-regular {
+        font-style: "Cal Sans", sans-serif, normal;
+        width: 200;
+        height: normal
+      }
+}
+
+p {
+    .cal-sans-regular {
+        font-style: "Cal Sans", sans-serif, normal;
+        width: 200;
+        height: normal
+      }
+}
+
+img {
+    width: 100px; /* Tamanho da imagem */
+    height: auto; /* Mantém a proporção */
+    border: 1px solid black; /* Exemplo de borda */
+  }
